@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-11 17:10 IR
+- 📥 [OneXray-windows-amd64.exe](https://github.com/mahanasgari/sandbox/raw/main/dl/OneXray-windows-amd64.exe) `31.3MB`
+
+---
+
+
 ### 📅 2026-05-11 17:06 IR
 - 🗜️ [InvisibleManXRay-x64.zip](https://github.com/mahanasgari/sandbox/raw/main/dl/InvisibleManXRay-x64.zip) `63.3MB`
 
